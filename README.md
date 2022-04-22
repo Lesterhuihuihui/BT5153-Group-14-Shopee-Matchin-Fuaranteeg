@@ -7,7 +7,7 @@ The aim of this competition is to predict which items are the same products. Thi
 
 ## Our working pipeline
 
-For NLP with fine tuned
+For NLP with fine tune
 ![image](https://user-images.githubusercontent.com/92854200/164682981-8716b678-9693-416a-b93e-3a3ada0ea8dd.png)
 ![image](https://user-images.githubusercontent.com/92854200/164682961-73d9e0e9-3ce4-4bef-ac1d-54e49d8719ed.png)
 
