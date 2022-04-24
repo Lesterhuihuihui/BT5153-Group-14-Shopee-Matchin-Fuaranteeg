@@ -9,6 +9,7 @@ The aim of this competition is to predict which items are the same products. Thi
 For 1st model clustering methods:
 ![caa5c2cf6207d7358cf011a8d12d742](https://user-images.githubusercontent.com/92854200/164971975-bc218c4d-c0b3-49d5-8729-3676ae7eb6f5.png)
 For 2rd deep learning and NLP model
+<img width="619" alt="1650796000(1)" src="https://user-images.githubusercontent.com/92854200/164972068-7f87082f-6b59-491f-a318-9fbe361c73f8.png">
 
 For 3rd model with fine tune
 ![image](https://user-images.githubusercontent.com/92854200/164682981-8716b678-9693-416a-b93e-3a3ada0ea8dd.png)
