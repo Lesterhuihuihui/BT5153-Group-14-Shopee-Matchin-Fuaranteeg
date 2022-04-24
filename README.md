@@ -6,8 +6,11 @@ This project is one for BT5153 module of NUS, which was conducted by Ji Lincheng
 The aim of this competition is to predict which items are the same products. This is source code/solution to get the Silver Medal in Shopee - Price Match Guarantee.
 
 ## Our working pipeline
+For 1st model clustering methods:
+![caa5c2cf6207d7358cf011a8d12d742](https://user-images.githubusercontent.com/92854200/164971975-bc218c4d-c0b3-49d5-8729-3676ae7eb6f5.png)
+For 2rd deep learning and NLP model
 
-For NLP with fine tune
+For 3rd model with fine tune
 ![image](https://user-images.githubusercontent.com/92854200/164682981-8716b678-9693-416a-b93e-3a3ada0ea8dd.png)
 ![image](https://user-images.githubusercontent.com/92854200/164682961-73d9e0e9-3ce4-4bef-ac1d-54e49d8719ed.png)
 
