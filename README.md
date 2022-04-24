@@ -5,6 +5,13 @@ This project is one for BT5153 module of NUS, which was conducted by Ji Lincheng
 <img width="576" alt="1650618774(1)" src="https://user-images.githubusercontent.com/92854200/164675738-926038bf-0624-4e0b-877a-81d16af04982.png">
 The aim of this competition is to predict which items are the same products. This is source code/solution to get the Silver Medal in Shopee - Price Match Guarantee.
 
+## Environment List
+Some of the notebook are run on different environment. Use Kaggle TPU on training the model and GPU while submitting the code to get public/private score.
+Environment Name	Description
+Kaggle CPU	2C/4T CPU, 16GB RAM
+Kaggle GPU	2C/4T CPU, 16GB RAM, Nvidia Tesla P100
+Kaggle TPU	2C/4T CPU, 16GB RAM, TPU v3-8
+
 ## Our working pipeline
 For 1st model clustering methods:
 ![caa5c2cf6207d7358cf011a8d12d742](https://user-images.githubusercontent.com/92854200/164971975-bc218c4d-c0b3-49d5-8729-3676ae7eb6f5.png)
