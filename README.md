@@ -12,7 +12,7 @@ Kaggle CPU	2C/4T CPU, 16GB RAM
 Kaggle GPU	2C/4T CPU, 16GB RAM, Nvidia Tesla P100
 Kaggle TPU	2C/4T CPU, 16GB RAM, TPU v3-8
 
-## Our working pipeline
+## Our model pipeline
 For 1st model clustering methods:
 ![caa5c2cf6207d7358cf011a8d12d742](https://user-images.githubusercontent.com/92854200/164971975-bc218c4d-c0b3-49d5-8729-3676ae7eb6f5.png)
 
